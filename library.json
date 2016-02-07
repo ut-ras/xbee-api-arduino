@@ -1,0 +1,18 @@
+{
+  "name": "xbee-api-arduino",
+  "keywords": "xbee, protocol, radio, rf, 802.15.4",
+  "description": "XBee Series 2 in API mode",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/ut-ras/xbee-api-arduino.git"
+  },  
+  "include":
+  [
+    "*.cpp",
+    "*.h",
+    "examples"
+  ],
+  "frameworks": "arduino",
+  "platforms": "atmelavr"
+ }
